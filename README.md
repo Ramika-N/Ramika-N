@@ -29,6 +29,6 @@
 <p align="left">
   <a href="https://instagram.com/r_nimtharu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_nimtharu" height="30" width="40" /></a>
   <a href="https://fb.com/ramika.nimtharu.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ramika.nimtharu.1" height="30" width="40" /></a>
-  <a href="[ramikanimtharu76@gmail.com](https://mail.google.com/mail/u/1/#inbox?compose=CllgCHrgljwZHfhwhplQFnbwrVfvqfFPxhVJVLMgkqBpZxPHbqTWvlzqHFpPwcjNltWbPdxbSgB)" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="ramikanimtharu76@gmail.com" height="30" width="40" /></a>
+  <a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCHrgljwZHfhwhplQFnbwrVfvqfFPxhVJVLMgkqBpZxPHbqTWvlzqHFpPwcjNltWbPdxbSgB" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" alt="ramikanimtharu76@gmail.com" height="30" width="40" /></a>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
