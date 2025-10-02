@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ramika-n&label=Profile%20views&color=0e75b6&style=flat" alt="ramika-n" /> </p>
 
 ---
-- 🌱 I’m currently learning **Networking and Security, Project Management, Laravel**
+- 🌱 I’m currently learning **React Native, Cybersecurity**
 
 - 💬 Ask me about **software development, innovation, and problem-solving**
 
