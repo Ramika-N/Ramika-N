@@ -24,7 +24,16 @@
 
 ### 📊 GitHub Stats
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Ramika-N&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170" />               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramika-N&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ramika-N&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ramika-N&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  
+  <br>
+  
+  <!-- GitHub Streak Stats (මේක ගොඩක් ලස්සනයි) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramika-N&theme=tokyonight" alt="GitHub Streak" height="170" />
 </div>
 
 <br>
