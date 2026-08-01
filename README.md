@@ -17,7 +17,7 @@
 
 ### 🛠️ Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,sqlite,py,js,react,firebase,laravel,php,mysql,html,css,bootstrap,git,arduino" />
+  <img src="https://skillicons.dev/icons?i=java,spring,py,js,react,laravel,php,nodejs,tailwind,hibernate,vite,postgres,sqlite,firebase,mysql,mongodb,html,css,bootstrap,git,arduino,aws,azure,vercel,figma,idea,webstorm,maven,npm,bash" />
 </p>
 
 <br>
